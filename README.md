@@ -51,9 +51,4 @@ Here are some ideas to get you started:
             </section>
         </article>
     </main>
-    <footer hidden>
-        <a hidden href="https://icons8.com/icon/55199/c++">C++ icon by Icons8</a>
-        <a hidden href="https://icons8.com/icon/2572/java">Java icon by Icons8</a>
-        <a href="https://icons8.com/icon/66754/circled-r">Circled R icon by Icons8</a>
-    </footer>
 </body>
