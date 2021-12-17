@@ -44,16 +44,16 @@ Here are some ideas to get you started:
                 <h3>Linguagens e Tecnologias</h3>
                 <div style="display: inline_block"><br>
                     <img align="center" alt="Mury-C++" src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/>
-                    <a hidden href="https://icons8.com/icon/55199/c++">C++ icon by Icons8</a>
                     <img align="center" alt="Mury-Java" src="https://img.icons8.com/ios/50/000000/java-coffee-cup-logo.png"/>
-                    <a hidden href="https://icons8.com/icon/2572/java">Java icon by Icons8</a>
                     <img align="center" alt="Mury-R" src="https://img.icons8.com/ios-filled/50/000000/circled-r.png"/>
-                    <a href="https://icons8.com/icon/66754/circled-r" style="text-decoration:none;color:White">Circled R icon by Icons8</a>
+                    
                   </div>
             </section>
         </article>
     </main>
     <footer hidden>
-            Não esqueça de conferir a minha Iniciação Científica em Data Science.
-        </footer>
+        <a hidden href="https://icons8.com/icon/55199/c++">C++ icon by Icons8</a>
+        <a hidden href="https://icons8.com/icon/2572/java">Java icon by Icons8</a>
+        <a href="https://icons8.com/icon/66754/circled-r">Circled R icon by Icons8</a>
+    </footer>
 </body>
