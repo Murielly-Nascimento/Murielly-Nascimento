@@ -19,8 +19,8 @@ Here are some ideas to get you started:
         <article>
             <section>
                 <h3>Bem vindo!</h3>
-                <p>Sou uma estudante de Sistemas de Informação na UFU. Participo do PET-SI há dois anos<br>
-                    e desde que ingressei na faculdade venho desenvolvendo projetos de caráter social e<br>
+                <p>Sou uma estudante de Sistemas de Informação na UFU. Participo do PET-SI há dois anos
+                    e desde que ingressei na faculdade venho desenvolvendo projetos de caráter social e
                     acadêmico. No momento estou trabalhando com desenvolvendo web e programação competitiva.
                 </p>
             </section>
