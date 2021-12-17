@@ -53,7 +53,4 @@ Here are some ideas to get you started:
             </section>
         </article>
     </main>
-    <footer>
-        Não esqueça de conferir a minha Iniciação Científica em Data Science.
-    </footer>
 </body>
