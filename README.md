@@ -48,7 +48,7 @@ Here are some ideas to get you started:
                     <img align="center" alt="Mury-Java" src="https://img.icons8.com/ios/50/000000/java-coffee-cup-logo.png"/>
                     <a hidden href="https://icons8.com/icon/2572/java">Java icon by Icons8</a>
                     <img align="center" alt="Mury-R" src="https://img.icons8.com/ios-filled/50/000000/circled-r.png"/>
-                    <a href="https://icons8.com/icon/66754/circled-r" hidden>Circled R icon by Icons8</a>
+                    <a href="https://icons8.com/icon/66754/circled-r" style="visibility:hidden">Circled R icon by Icons8</a>
                   </div>
             </section>
         </article>
