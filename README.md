@@ -40,15 +40,6 @@ Here are some ideas to get you started:
                     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murielly-Nascimento&layout=compact&langs_count=7&theme=buefy"/>
                 </div>
             </section>
-            <section>
-                <h3>Linguagens e Tecnologias</h3>
-                <div style="display: inline_block"><br>
-                    <img align="center" alt="Mury-C++" src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/>
-                    <img align="center" alt="Mury-Java" src="https://img.icons8.com/ios/50/000000/java-coffee-cup-logo.png"/>
-                    <img align="center" alt="Mury-R" src="https://img.icons8.com/ios-filled/50/000000/circled-r.png"/>
-                    
-                  </div>
-            </section>
         </article>
     </main>
 </body>
