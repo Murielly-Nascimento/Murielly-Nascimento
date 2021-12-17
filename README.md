@@ -27,9 +27,9 @@ Here are some ideas to get you started:
             <section>
                 <h3>Meus favoritos</h3>
                 <ul>
-                    <li>Minha linguagem do momento é Prolog</li>
-                    <li>Amo ler e ouvir música nas horas vagas</a></li>
-                    <li>Cursei dois semestres de Relações Internacionais antes de migrar para Sistemas</li>
+                    <li>🔭 Minha linguagem do momento é Prolog</li>
+                    <li> 🌱 Amo ler e ouvir música nas horas vagas</a></li>
+                    <li>⚡ Fun fact: Cursei dois semestres de Relações Internacionais antes de migrar para Sistemas</li>
                 </ul>
             </section>
             <section>
