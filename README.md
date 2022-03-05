@@ -29,7 +29,7 @@ Here are some ideas to get you started:
                 <ul>
                     <li>🔭 Minha linguagem do momento é C++</li>
                     <li> 🌱 Amo ler e ouvir música nas horas vagas</a></li>
-                    <li>⚡ Fun fact: Cursei dois semestres de Relações Internacionais antes de migrar para Sistemas</li>
+                    <li>⚡ Fun fact: Cursei dois semestres de Relações Internacionais antes de migrar para Sistemas de Informação</li>
                 </ul>
             </section>
             <section>
