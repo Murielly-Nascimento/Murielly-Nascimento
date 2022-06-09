@@ -36,8 +36,8 @@ Here are some ideas to get you started:
                 <h3>Github Stats</h3>
                 <div align="left">
                     <a href="https://github.com/Murielly-Nascimento">
-                    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murielly-Nascimento&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-                    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murielly-Nascimento&layout=compact&langs_count=7&theme=ayu-mirage"/>
+                    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murielly-Nascimento&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+                    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murielly-Nascimento&layout=compact&langs_count=7&theme=calm"/>
                 </div>
             </section>
         </article>
