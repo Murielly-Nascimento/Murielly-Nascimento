@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <body>
-    <header><img src = "imagens/Ballerina_v2.png" alt = "template of mny profile"></header>
+    <header><img src = "imagens/Red_Rose.png" alt = "template of mny profile"></header>
     <main>
         <article>
             <section>
