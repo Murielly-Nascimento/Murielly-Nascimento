@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <body>
-    <header><img src = "imagens/stellar_collision.png" alt = "template of mny profile"></header>
+    <header><img src = "imagens/minimal.png" alt = "template of mny profile"></header>
     <main>
         <article>
             <section>
