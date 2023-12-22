@@ -19,9 +19,9 @@ Here are some ideas to get you started:
         <article>
             <section>
                 <h3>Bem vindo!</h3>
-                <p>Sou uma estudante de Sistemas de Informação na UFU. Participo do PET-SI há dois anos
-                    e desde que ingressei na faculdade venho desenvolvendo projetos de caráter social e
-                    acadêmico. No momento estou trabalhando com desenvolvendo web e programação competitiva.
+                <p>Bacharel em Sistemas de Informação pela UFU desde 2023. Durante minha graduação participei do PET-SI, desenvolvi pesquisas no 
+                    formato Iniciação Científica e fiz parte de equipes na maratona de programação ICPC. Minha monografia teve como tema o Algoritmo
+                    Evolutivo aplicado ao Problema do Percurso do Cavalo.
                 </p>
             </section>
             <section>
