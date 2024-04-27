@@ -19,9 +19,7 @@ Here are some ideas to get you started:
         <article>
             <section>
                 <h3>Bem vindo!</h3>
-                <p>Bacharel em Sistemas de Informação pela UFU desde 2023. Durante minha graduação participei do PET-SI, desenvolvi pesquisas no 
-                    formato Iniciação Científica e fiz parte de equipes na maratona de programação ICPC. Minha monografia teve como tema o Algoritmo
-                    Evolutivo aplicado ao Problema do Percurso do Cavalo.
+                <p>Formada em Sistemas de Informação pela UFU em 2023. Durante o curso me envolvi ativamente em diversas atividades acadêmicas. Participei do Programa de Educação Tutorial em Sistemas de Informação (PET-SI), conduzi pesquisas como bolsista de Iniciação Científica e contribuí para equipes competitivas na maratona de programação ICPC. Minha monografia explorou o Algoritmo Evolutivo aplicado ao Problema do Percurso do Cavalo.
                 </p>
             </section>
             <section>
